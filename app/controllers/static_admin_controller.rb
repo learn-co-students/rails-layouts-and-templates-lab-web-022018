@@ -1,0 +1,2 @@
+class StaticAdminController < ApplicationController
+end
